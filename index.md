@@ -8,3 +8,11 @@ layout: default
 ### And this looks like it is the third one
 
 
+<br>
+
+{% include 02-image.md %}
+
+<br>
+
+{% include 03-links.md %}
+
